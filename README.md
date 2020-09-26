@@ -2,7 +2,7 @@ Working name: Vault
 
 Vault is a staking platform that rewards long term hodlers of projects. 
 
-It is based off the 0x167 (ghandiji) contract. This model encourages hodling by providing a revenue stream to stronger hands in the market and penalises weaker hands for withdrawing their funds. 
+It is based off the 0x167 (ghandiji) contract. This model encourages hodling by providing a revenue stream to stronger hands in the market and penalising weaker hands for withdrawing their funds. 
 
 Base layer staking may also be implemented for coins that support this. This will provide multiple revenue streams for depositors. 
 
